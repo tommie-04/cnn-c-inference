@@ -3,4 +3,6 @@ data/
 __pycache__/
 cnn_O0
 cnn_O3
+cnn
+.vscode/
 .DS_Store
